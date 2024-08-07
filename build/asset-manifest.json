@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab15b62f.css",
+    "main.js": "/static/js/main.a3813f77.js",
+    "static/media/1.jpg": "/static/media/1.ad5141663dce3737010b.jpg",
+    "static/media/2.jpeg": "/static/media/2.18b5dca3b700e5a7c40b.jpeg",
+    "static/media/bg6.jpg": "/static/media/bg6.02e856cac143dac53889.jpg",
+    "static/media/bg4.jpg": "/static/media/bg4.7f1da1e69a07f92f192a.jpg",
+    "static/media/bg.jpg": "/static/media/bg.9f5fc6c84f7a4eb68e0c.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.b53090a36ed85cc017cd.jpg",
+    "static/media/3.jpg": "/static/media/3.c2f2ac5e6b0edc89cb2d.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.bfccecc679de287507db.jpg",
+    "static/media/Docker.png": "/static/media/Docker.8856c69a677b07f55f0a.png",
+    "static/media/AWS.png": "/static/media/AWS.f8cfc0577044739644d5.png",
+    "static/media/Linux.png": "/static/media/Linux.b098740b05c2f267f272.png",
+    "static/media/Heroku.png": "/static/media/Heroku.2a58b9b551f807f55585.png",
+    "static/media/Kubernetes.png": "/static/media/Kubernetes.a0119edaf9868483df75.png",
+    "static/media/dark_logo.png": "/static/media/dark_logo.1022ec675d69e99a00aa.png",
+    "static/media/white_logo.png": "/static/media/white_logo.3fe69df4ee6fc3b7f9bc.png",
+    "static/media/Digital-Ocean.png": "/static/media/Digital-Ocean.7269ef6b7616319747e7.png",
+    "static/media/skype.png": "/static/media/skype.ef82838bd043ebf691e8.png",
+    "static/media/Hetzner.png": "/static/media/Hetzner.f0dad50b7a5c7165c0e5.png",
+    "index.html": "/index.html",
+    "main.ab15b62f.css.map": "/static/css/main.ab15b62f.css.map",
+    "main.a3813f77.js.map": "/static/js/main.a3813f77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab15b62f.css",
+    "static/js/main.a3813f77.js"
+  ]
+}

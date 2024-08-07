@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul > li {
+  -webkit-margin-start: 0.25rem;
+  margin-inline-start: 0.25rem;
+}
+ul > li:first-child {
+  -webkit-margin-start: 0px;
+  margin-inline-start: 0px;
+}
+
+.primary-things {
+  /* bg-primary  border-emerald-600 hover:border-emerald-700  */
+  background-color: #03117e;
+  color: white;
+  border: 1px solid #03117e;
+}
+
+.my-footer {
+  background-color: #00052e;
+  color: white;
+}
+
+.primary-things:hover {
+  /* bg-primary  border-emerald-600 hover:border-emerald-700  */
+  background-color: #059bdf;
+  color: white;
+  border: 1px solid #059bdf;
+}
+
+.my-primary-text {
+  color: #03117e;
+}
+
+.my-dim-text {
+  color: #94a3b8;
+}
+
+.service-card:hover {
+  background-color: #059adf28;
+}
+
+.service-card-icon {
+  background-color: #059adf28;
+  color: #03117e;
+}
+
+.service-card-icon:hover {
+  background-color: #03117e;
+  color: white;
+}
+
+.tech_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 5px;
+  padding: 0 2rem;
+}
+
+.tech_scroll {
+  width: 100%;
+  margin: 0 2rem;
+}
+
+.techs_box {
+  color: gray;
+  border-radius: 10px;
+  width: 190px;
+  height: 150px;
+
+  padding: 2rem 2rem;
+  transition: 300ms ease-in-out;
+}
+
+.techs_box img{
+  height: 100px;
+}
+
+.techs_box:hover {
+  transform: scale(1.12);
+  color: white;
+}
